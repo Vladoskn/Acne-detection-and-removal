@@ -23,4 +23,4 @@ In this task we tried two approaches and two datasets were used. The first one w
 
 ## Description
 
-The repository contains the code for several acne detection and removal approaches. For more information watch the [video](https://www.youtube.com/watch?v=Gt5zuF37t_M&list=PLSk_6GxCds8PyeX6OroBshyRJhohuxgGz&index=21) and corresponding [presentation](https://docs.google.com/presentation/d/1TAfm8xBnFH1th2vQkDBunehXdW7doRmMwFk1Zt6C288)
+The repository contains the [code](https://github.com/Vladoskn/Acne-detection-and-removal/blob/main/Acne_removal_final.ipynb) for several acne detection and removal approaches. For more information watch the [video](https://www.youtube.com/watch?v=Gt5zuF37t_M&list=PLSk_6GxCds8PyeX6OroBshyRJhohuxgGz&index=21) and corresponding [presentation](https://docs.google.com/presentation/d/1TAfm8xBnFH1th2vQkDBunehXdW7doRmMwFk1Zt6C288)
