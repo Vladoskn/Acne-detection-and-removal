@@ -7,7 +7,10 @@
 >
 > [Presentation](https://docs.google.com/presentation/d/1TAfm8xBnFH1th2vQkDBunehXdW7doRmMwFk1Zt6C288)  
 
-<img alt="Example 1" src="/assets/1.gif" width="480">
-<img alt="Example 2" src="/assets/2.gif" width="480">
+<p float="left">
+  <img alt="Example 1" src="/assets/1.gif" width="480" />
+  <img alt="Example 2" src="/assets/2.gif" width="480" />
+</p>
+
 
 ## Description
